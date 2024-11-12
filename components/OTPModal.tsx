@@ -46,7 +46,7 @@ const OTPModal = ({
 
       if (sessionId) router.push("/");
     } catch (error) {
-      console.log("Failed to verify OTP", error);
+      console.log("Error al verificar OTP", error);
     }
 
     setIsLoading(false);

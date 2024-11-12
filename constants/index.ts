@@ -5,12 +5,12 @@ export const navItems = [
     url: "/",
   },
   {
-    name: "Documents",
+    name: "Documentos",
     icon: "/assets/icons/documents.svg",
     url: "/documents",
   },
   {
-    name: "Images",
+    name: "Imagenes",
     icon: "/assets/icons/images.svg",
     url: "/images",
   },
@@ -20,7 +20,7 @@ export const navItems = [
     url: "/media",
   },
   {
-    name: "Others",
+    name: "Otros",
     icon: "/assets/icons/others.svg",
     url: "/others",
   },
